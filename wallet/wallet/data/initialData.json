@@ -1,0 +1,40 @@
+{
+    "cardResults": [
+        {
+            "cardHolderName": "JUAN ALRIC",
+            "cardNumber": "1324564325675434",
+            "cardMonth": "12",
+            "cardYear": "2030",
+            "cardCvv": "123",
+            "cardColor": null,
+            "cardType": "CREDIT"
+        },
+        {
+            "cardHolderName": "RAMON CORTABARRIA",
+            "cardNumber": "5465432345465437",
+            "cardMonth": "09",
+            "cardYear": "2021",
+            "cardCvv": "435",
+            "cardColor": null,
+            "cardType": "CREDIT"
+        },
+        {
+            "cardHolderName": "MARIANO GIL",
+            "cardNumber": "4543456765456543",
+            "cardMonth": "02",
+            "cardYear": "2026",
+            "cardCvv": "654",
+            "cardColor": null,
+            "cardType": "CREDIT"
+        },
+        {
+            "cardHolderName": "FEDERICO PUTIO",
+            "cardNumber": "7654565434564324",
+            "cardMonth": "06",
+            "cardYear": "2103",
+            "cardCvv": "543",
+            "cardColor": null,
+            "cardType": "CREDIT"
+        }
+    ]
+}
